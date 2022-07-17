@@ -1,7 +1,7 @@
 Hi 👋 My name is at0m
 =====================
 
-Bug Bounty Hunter
+Bug Bounty Hunter | Security Researcher
 -----------------
 
 I started bug hunting about 1 and a half years ago. I have fell in love with security research ever since.
