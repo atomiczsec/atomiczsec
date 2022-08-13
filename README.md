@@ -1,39 +1,28 @@
-Hi 👋 My name is at0m
-=====================
+<h1 align="center">Hi 👋, I'm at0m or atomiczsec</h1>
+<h3 align="center">Bug Bounty Hunter | Security Researcher</h3>
 
-Bug Bounty Hunter | Security Researcher
------------------
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atomiczsec&label=Profile%20views&color=0e75b6&style=flat" alt="atomiczsec" /> </p>
 
-I started bug hunting about 1 and a half years ago. I have fell in love with security research ever since.
 
-* 🌍  I'm based in Area 51
-* 🖥️  See my portfolio at [My hackerone Profile](http://hackerone.com/at0mq1?type=user)
-* ✉️  You can contact me at [at0mq1@wearehackerone.com](mailto:at0mq1@wearehackerone.com)
-* 🤝  I'm open to collaborating on Bug Bounties
 
-<a href="https://www.twitter.com/atomiczsec" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/atomiczsec?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+<p align="left"> <a href="https://twitter.com/atomiczsec" target="blank"><img src="https://img.shields.io/twitter/follow/atomiczsec?logo=twitter&style=for-the-badge" alt="atomiczsec" /></a> </p>
 
-### Skills
+- 🌱 I’m currently learning **Powershell**
 
+- 👯 I’m looking to collaborate on [Bug Bounties](https://hackerone.com/at0mq1?type=user)
+
+- 💬 Ask me about **Anything**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
+<a href="https://twitter.com/atomiczsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atomiczsec" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### Socials
-<p align="left"> <a href="https://www.github.com/atomiczsec" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/atomiczsec" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atomiczsec&show_icons=true&locale=en&layout=compact" alt="atomiczsec" /></p>
 
-### Badges
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atomiczsec&show_icons=true&locale=en" alt="atomiczsec" /></p>
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/atomiczsec"><img src="https://github-readme-stats.vercel.app/api?username=atomiczsec&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="atomiczsec's GitHub stats" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atomiczsec&" alt="atomiczsec" /></p>
