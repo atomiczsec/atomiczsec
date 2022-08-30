@@ -31,13 +31,9 @@
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=atomiczsec&show_icons=true&count_private=true&hide_border=true" align="left" />
-
-</td><td valign="top" width="33%">
-
-
 
 </td></table>  
 
