@@ -6,7 +6,7 @@
 ### <div align="center">I'm at0m, a security researcher and bug bounty hunter!</div>  
   
 
-- 🌱 I’m currently learning Powershell  
+- 🌱 I’m currently learning Powershell & Python
   
 
 - ❓ Ask me about anything related to bug bounties  
