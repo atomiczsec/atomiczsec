@@ -4,7 +4,9 @@
   
 
 ### <div align="center">I'm at0m, a security researcher and bug bounty hunter!</div>  
-  
+### <div align="center">You can reach me [here](https://lnk.bio/atomiczsec) !</div>  
+
+
 
 - 🌱 I’m currently learning Powershell & Python
   
