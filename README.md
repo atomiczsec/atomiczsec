@@ -4,7 +4,7 @@
   
 
 ### <div align="center">I'm at0m, a security researcher and bug bounty hunter!</div>  
-### <div align="center">You can reach me [here]([https://lnk.bio/atomiczsec](https://feds.lol/atomiczsec)) !</div>  
+### <div align="center">You can reach me [here](https://feds.lol/atomiczsec) !</div>  
 
 
 
