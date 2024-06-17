@@ -47,11 +47,10 @@
 <a href="https://twitter.com/atomiczsec" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="[https://www.youtube.com/user/https://www.youtube.com/channel/UC-7iJTFN8-CsTTuXd3Va6mA](https://www.youtube.com/channel/UCO3HJD9va6b2gJSZyxLxExg)" target="_blank">
+<a href="https://www.youtube.com/channel/UCO3HJD9va6b2gJSZyxLxExg" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
+</div>
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atomiczsec&hide_border=true&layout=compact" align="center" /></div>  
