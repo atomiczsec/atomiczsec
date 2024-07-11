@@ -3,10 +3,6 @@
 </div>  
   
 ### <div align="center">I'm at0m, a security researcher and bug bounty hunter!</div>  
-<p align="center">
-  <a href="https://feds.lol/atomiczsec">You can reach me here!</a>
-</p>
-
 <br/>  
 
 ## Connect with Me  
