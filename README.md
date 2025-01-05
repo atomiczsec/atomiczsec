@@ -2,7 +2,7 @@
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 25%" />
 </div>  
   
-### <div align="center">I'm at0m, a security researcher and bug bounty hunter!</div>  
+### <div align="center">Hello! I am atomiczsec, a security researcher and bug bounty hunter!</div>  
 <br/>  
 
 ## Connect with Me  
