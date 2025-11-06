@@ -1,34 +1,26 @@
-<div align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 25%" />
-</div>  
-  
-### <div align="center">Hello! I am atomiczsec, a security researcher and bug bounty hunter!</div>  
-<br/>  
+<p align="center">
+  Hello, I'm currently working on <strong>Adrenaline - a BOF collection for red teamers</strong><br>
+  How to reach me: <strong>contact@atomiczsec.net</strong><br><br>
+  All of my projects/info: <strong><a href="https://atomiczsec.net">https://atomiczsec.net</a></strong><br>
+  I write articles at: <strong><a href="https://www.atomiczsec.net/blog">https://www.atomiczsec.net/blog</a></strong>
+</p>
 
-## Connect with Me  
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://github.com/atomiczsec" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a>
+  <a href="https://instagram.com/atomiczsec" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+  <a href="https://twitter.com/atomiczsec" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+  <a href="https://medium.com/@atomiczsec" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" /></a>
+  <a href="https://youtube.com/@atomiczsec" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
+</p>
+
+<h3 align="center">GitHub Stats</h3>
 <div align="center">
-  <a href="https://github.com/atomiczsec" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://twitter.com/atomiczsec" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCO3HJD9va6b2gJSZyxLxExg" target="_blank">
-    <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="margin-bottom: 5px;" />
-  </a>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atomiczsec&hide_border=true&layout=compact" />
 </div>
 
-## GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atomiczsec&hide_border=true&layout=compact" align="center" />
-</div>  
-
-<br/>  
+<br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=atomiczsec&&style=flat-square" align="center" />
-</div>  
-
-<br/>  
-
-<br />
+  <img src="https://komarev.com/ghpvc/?username=atomiczsec&style=flat-square" />
+</div>
