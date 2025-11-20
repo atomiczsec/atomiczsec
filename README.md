@@ -19,7 +19,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atomiczsec&hide_border=true&layout=compact" />
 </div>
 
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=atomiczsec&show_icons=true&theme=aura&include_all_commits=true" width="300" />
+</div>
 
 <br>
 
