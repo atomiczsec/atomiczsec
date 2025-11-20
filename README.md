@@ -1,5 +1,9 @@
 <p align="center">
   Hello, I'm currently working on <strong>Adrenaline - a BOF collection for red teamers</strong><br>
+    
+  I've worked on:
+  <img src="https://github-readme-stats.vercel.app/api?username=atomiczsec&show_icons=true&theme=aura&include_all_commits=true" width="300" />
+
   How to reach me: <strong>contact@atomiczsec.net</strong><br><br>
   All of my projects/info: <strong><a href="https://atomiczsec.net">https://atomiczsec.net</a></strong><br>
   I write articles at: <strong><a href="https://www.atomiczsec.net/blog">https://www.atomiczsec.net/blog</a></strong>
