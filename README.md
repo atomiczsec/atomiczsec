@@ -14,16 +14,7 @@
   <a href="https://youtube.com/@atomiczsec" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atomiczsec&hide_border=true&layout=compact" />
-</div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=atomiczsec&show_icons=true&theme=aura&include_all_commits=true" width="300" />
-</div>
-
-<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=atomiczsec&style=flat-square" />
