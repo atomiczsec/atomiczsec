@@ -1,6 +1,4 @@
 <p align="center">
-  Hello, I'm currently working on <strong>Adrenaline - a BOF collection for red teamers</strong><br>
-  How to reach me: <strong>contact@atomiczsec.net</strong><br><br>
   All of my projects/info: <strong><a href="https://atomiczsec.net">https://atomiczsec.net</a></strong><br>
   I write articles at: <strong><a href="https://www.atomiczsec.net/blog">https://www.atomiczsec.net/blog</a></strong>
 </p>
